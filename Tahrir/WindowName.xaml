@@ -1,0 +1,15 @@
+﻿<Window x:Class="Tahrir.WindowName"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tahrir"
+        mc:Ignorable="d"
+        Title="لطفا نام را وارد کنید" Height="170" Width="320
+        ">
+    <Grid>
+        <TextBox Width="150" Margin="72,25,70,69" Height="25" Name="nameBox"/>
+        <Button Width="100" Height="25" Margin="46,72,146,22">انصراف</Button>
+        <!--<Button Width="100" Height="25" Margin="167,72,25,22" Click="Button_Click">تایید</Button>-->
+    </Grid>
+</Window>

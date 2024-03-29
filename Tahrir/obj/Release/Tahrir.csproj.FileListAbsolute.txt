@@ -1,0 +1,17 @@
+H:\MyProjects\Tahrir\Tahrir\bin\Release\Tahrir.exe.config
+H:\MyProjects\Tahrir\Tahrir\bin\Release\Tahrir.exe
+H:\MyProjects\Tahrir\Tahrir\bin\Release\Tahrir.pdb
+H:\MyProjects\Tahrir\Tahrir\obj\Release\MainWindow.g.cs
+H:\MyProjects\Tahrir\Tahrir\obj\Release\WindowName.g.cs
+H:\MyProjects\Tahrir\Tahrir\obj\Release\Windowpics.g.cs
+H:\MyProjects\Tahrir\Tahrir\obj\Release\App.g.cs
+H:\MyProjects\Tahrir\Tahrir\obj\Release\Tahrir_MarkupCompile.cache
+H:\MyProjects\Tahrir\Tahrir\obj\Release\Tahrir_MarkupCompile.lref
+H:\MyProjects\Tahrir\Tahrir\obj\Release\MainWindow.baml
+H:\MyProjects\Tahrir\Tahrir\obj\Release\WindowName.baml
+H:\MyProjects\Tahrir\Tahrir\obj\Release\Windowpics.baml
+H:\MyProjects\Tahrir\Tahrir\obj\Release\Tahrir.g.resources
+H:\MyProjects\Tahrir\Tahrir\obj\Release\Tahrir.Properties.Resources.resources
+H:\MyProjects\Tahrir\Tahrir\obj\Release\Tahrir.csproj.GenerateResource.Cache
+H:\MyProjects\Tahrir\Tahrir\obj\Release\Tahrir.exe
+H:\MyProjects\Tahrir\Tahrir\obj\Release\Tahrir.pdb

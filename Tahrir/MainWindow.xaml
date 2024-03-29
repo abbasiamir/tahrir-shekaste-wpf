@@ -1,0 +1,26 @@
+﻿<Window x:Class="Tahrir.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tahrir"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Menu>
+            <MenuItem Header="_پرونده" Focusable="False">
+                <!--<MenuItem Header="_تبدیل تصاویر" Name="Convert" Click="Convert_Click"/>-->
+            </MenuItem>
+            <!--<MenuItem Header="" Name="convert" Click="convert_click()"></MenuItem>-->
+        </Menu>
+        <ToolBar Name="toolbar1" Focusable="False">
+            <ComboBox Name="font" Width="100" Focusable="False">
+                <ComboBoxItem>نستعلیق</ComboBoxItem>
+                <ComboBoxItem>شکسته نستعلیق</ComboBoxItem>
+            </ComboBox>
+        </ToolBar>
+        <Grid Name="MainGrid">
+            
+        </Grid>
+    </StackPanel>
+</Window>
